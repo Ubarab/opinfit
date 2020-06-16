@@ -1,0 +1,5 @@
+# opinfit redirects to meedul
+/			https://www.meedul.com.ng
+/shopping		https://www.meedul.com.ng/shopping
+/guide              	https://www.meedul.com.ng/guide
+/travel			https://www.meedul.com.ng/travel
