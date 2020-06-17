@@ -1,4 +1,1 @@
-/index  https://www.meedul.com.ng 301
-/shopping https://www.meedul.com.ng/shopping 301
-/guide  https://www.meedul.com.ng/gudie 301
-/travel https://www.meedul.com.ng/travel 301
+https://www.opinfit.xyz/* https://www.meedul.com.ng:splat 301!
